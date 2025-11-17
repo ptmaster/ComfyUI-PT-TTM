@@ -22,16 +22,29 @@ PT创作了新的PT TTM Reference Control节点,此节点可以完全替代原�
 https://github.com/user-attachments/assets/b8c2f5f0-82a5-4240-88c7-e3335ee8fb1c
 
 
+
+
+https://github.com/user-attachments/assets/c39d4080-a4de-4c6c-8771-d2868b797148
+
+
 高强度（1.0）: 高度保持参考视频的动态特性
 
 
 https://github.com/user-attachments/assets/07c84782-d69b-4027-a711-15aff7d77564
 
 
+
+https://github.com/user-attachments/assets/f8ea91ca-5486-4b52-ba23-1d665763eaf1
+
+
 中等强度（0.75）: 在创造性和保真度之间达到良好平衡
 
 
 https://github.com/user-attachments/assets/b360193a-d91a-4754-a57e-54b103febe14
+
+
+https://github.com/user-attachments/assets/53fbd215-c1c5-4356-8357-77b686f15370
+
 
 
 低强度（0.5）: 参考视频的动态特征轻微影响生成结果，保持较高的创造性
