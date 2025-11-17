@@ -1,7 +1,7 @@
 PT-TTM: "为创作者而生，为自由动态而战" - 由 PT 倾情奉献Time-to-Move的强度可控实现
 
 摘要
-来自于 https://github.com/time-to-move/TTM 技术团队的（Time-to-Move, TTM），通过在参考视频潜变量和生成视频之间引入可调节的强度控制机制，实现了对视频动态迁移过程的精确调控。
+该技术来自于 https://github.com/time-to-move/TTM 技术团队的（Time-to-Move, TTM），
 该技术由 https://github.com/kijai/ComfyUI-WanVideoWrapper kijai 进行了实现,用于通义万相2.2的文生视频高级参考图引导.
 
 然而传统的TTM方法在参考视频动态迁移方面表现出色，但缺乏对迁移强度的精细控制。
