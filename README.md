@@ -2,7 +2,7 @@ PT-TTM: "为创作者而生，为自由动态而战" - 由 PT 倾情奉献Time-t
 
 摘要
 该技术来自于 https://github.com/time-to-move/TTM 技术团队的（Time-to-Move, TTM），
-该技术由 https://github.com/kijai/ComfyUI-WanVideoWrapper kijai 进行了实现,用于通义万相2.2的文生视频高级参考图引导.
+该技术由 https://github.com/kijai/ComfyUI-WanVideoWrapper kijai 进行了实现,用于通义万相2.2的图生视频高级参考图引导.
 
 然而传统的TTM方法在参考视频动态迁移方面表现出色，但缺乏对迁移强度的精细控制。
 PT通过线性插值算法在零潜变量和参考潜变量之间建立连续过渡，同时同步调整掩码强度，确保了整体影响的一致性。实验结果表明，该方法在保持视频质量的同时，为用户提供了从完全无影响到完全影响的连续控制能力。
