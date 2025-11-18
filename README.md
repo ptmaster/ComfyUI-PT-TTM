@@ -19,6 +19,7 @@ PT创作了新的PT TTM Reference Control节点,此节点可以完全替代原�
 此节点需要安装 https://github.com/kijai/ComfyUI-WanVideoWrapper
 
 关于TTM的使用教程科普视频,来自b站大佬Aiwood:
+
 https://www.bilibili.com/video/BV1syCYBCErv/?vd_source=8c0c4ef61dc5c5d2356d3037a952ed3b
 
 以下是测试对比视频:
