@@ -18,6 +18,10 @@ PT创作了新的PT TTM Reference Control节点,此节点可以完全替代原�
 将PT_TTM节点包放置在ComfyUI的custom_nodes目录中，重启ComfyUI即可在节点菜单中找到"PT TTM Reference Control"节点。
 此节点需要安装 https://github.com/kijai/ComfyUI-WanVideoWrapper
 
+关于TTM的使用教程科普视频,来自b站大佬Aiwood:
+https://www.bilibili.com/video/BV1syCYBCErv/?vd_source=8c0c4ef61dc5c5d2356d3037a952ed3b
+
+以下是测试对比视频:
 
 https://github.com/user-attachments/assets/b8c2f5f0-82a5-4240-88c7-e3335ee8fb1c
 
